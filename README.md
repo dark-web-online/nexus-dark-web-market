@@ -53,4 +53,6 @@ This guide is made solely for educational purposes. The information supplied her
 
 
 
-Update: Verified all navigation links are working
+
+
+Update:  06/23/2025 Corrected broken profiling tool references
