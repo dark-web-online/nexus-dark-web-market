@@ -55,4 +55,6 @@ This guide is made solely for educational purposes. The information supplied her
 
 
 
-Update:  06/23/2025 Corrected broken profiling tool references
+
+
+Update:  24.06.2025 Updated cloud provider reference URLs
